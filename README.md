@@ -22,7 +22,7 @@
 
 In order to contribute code to ReteLabs open-source projects, you need to sign Contributor License Agreement.
 
-TODO: define proper legal guide, CLA (#1)
+TODO: define proper legal guide, CLA (rete-labs/onboarding#1)
 
 ## Technical
 
@@ -50,7 +50,7 @@ Use Flor Сomponent API to implement async-echo:
 
 Use Flor Capabilities API to implement advanced async-echo.
 
-TODO: define details of task 3 to practice Flor Capabilities API (#3)
+TODO: define details of task 3 to practice Flor Capabilities API (rete-labs/onboarding#3)
 
 ### Intro to Florete Forwarding
 
@@ -60,4 +60,4 @@ Use Florete Portal API (publish/connect capabilities) and F-tunnels (Florete Tun
 
 ## Development Environment
 
-TODO: describe setup of development environment (#4)
+TODO: describe setup of development environment (rete-labs/onboarding#4)
