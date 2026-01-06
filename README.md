@@ -24,8 +24,6 @@ In order to contribute code to ReteLabs open-source projects, you need to sign C
 
 TODO: define proper legal guide, CLA (rete-labs/onboarding#1)
 
-Why simple #1 (#1) #2 #4 (#4) not working?
-
 ## Technical
 
 ### Rust Basics
