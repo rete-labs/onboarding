@@ -48,9 +48,10 @@ Use Flor Сomponent API to implement async-echo:
 
 #### Task 3: async-echo with Flor Capabilities
 
-Use Flor Capabilities API to implement advanced async-echo.
-
-TODO: define details of task 3 to practice Flor Capabilities API (rete-labs/onboarding#3)
+Use Flor Capabilities API to implement advanced async-echo:
+- define a capability `ConnectionObservable`. It allows to subscribe to connection events from the server component.
+- the server component provides `ConnectionObservable` capability. It emits events when client connections are accepted or rejected.
+- implement new echo-monitor component. It subscribes to `ConnectionObservable` capability of echo-server and prints connection events to the console.
 
 ### Intro to Florete Forwarding
 
